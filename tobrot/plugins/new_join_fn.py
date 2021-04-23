@@ -25,7 +25,6 @@ async def help_message_f(client, message):
     # display the /help
 
     await message.reply_text(
-        """<b>Hi Nanba🚶 Or Nanbi🚶‍♀️, We Are Beginner In
-This Field..So AnY Bug or Problem, You Report and We Solved It Soon</b>""",
+        """<b>#Hi Nanba🚶 Or Nanbi🚶‍♀️</b>""",
         disable_web_page_preview=True,
     )
